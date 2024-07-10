@@ -1,0 +1,35 @@
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:2px;
+    overflow: hidden;
+    background-color: blueviolet;
+}
+
+li{
+    float: left;
+    margin-right: 40px;
+}
+
+li a{
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+
+}
+
+ li a:hover{
+    background-color: darkturquoise;
+ }
+
+ img{
+    height: 250px;
+ }
+ td{
+    text-align: center;
+ }
+ th{
+    text-align: center;
+ }
